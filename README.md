@@ -45,7 +45,7 @@ Server: db\
 Username: root\
 Password: As specified in MYSQL_ROOT_PASSWORD
 
-## Stopping the Environment
-
+7. Stopping the Environment\
+   This will stop and remove the containers.
     ```bash
     docker-compose down
