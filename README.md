@@ -39,10 +39,10 @@ This command will download the necessary Docker images and start the MySQL and A
 5. Access Adminer in your web browser:
 Adminer URL: http://localhost:8080
 
-6. Login:
-System: MySQL
-Server: db
-Username: root
+6. Login:\
+System: MySQL\
+Server: db\
+Username: root\
 Password: As specified in MYSQL_ROOT_PASSWORD
 
 ## Stopping the Environment
